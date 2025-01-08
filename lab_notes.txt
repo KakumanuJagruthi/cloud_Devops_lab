@@ -1,3 +1,6 @@
 This is my first Cloud Devops Lab!
 Learning Git and GitHub is fun!
 Local: This line was added locally.
+
+Remote: This line was added remotely.
+ 5b40b75bda88e9daf2c500d8492ead3a7940e49a
